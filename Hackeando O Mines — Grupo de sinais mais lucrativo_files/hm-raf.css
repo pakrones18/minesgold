@@ -20,7 +20,7 @@
 
 .body-content {
   height: 100%;
-  background-image: url('../images/bg-page.webp');
+  background-image: url('https://minesonline.top/images/bg-page.webp');
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -64,7 +64,7 @@
 }
 
 .vertical-content.bg-img-mines {
-  background-image: url('../images/mines-ilustration.webp');
+  background-image: url('https://minesonline.top/images/mines-ilustration.webp');
   background-position: 100% 100%;
   background-repeat: no-repeat;
   background-size: contain;
